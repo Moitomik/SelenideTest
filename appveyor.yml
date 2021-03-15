@@ -1,6 +1,6 @@
 image: Ubuntu1804  # образ для сборки
 
-       branches:
+  branches:
          only:
            - master  # ветка git
 
